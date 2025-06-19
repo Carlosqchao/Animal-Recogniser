@@ -37,7 +37,7 @@ pip install tensorflow keras numpy matplotlib
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/<usuario>/Animal-Recogniser.git
+    git clone https://github.com/Carlosqchao/Animal-Recogniser.git
     cd Animal-Recogniser
     ```
 
@@ -56,7 +56,3 @@ El modelo está preparado para reconocer 10 clases diferentes de animales. Puede
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para sugerencias o mejoras.
-
-## Licencia
-
-Este proyecto está bajo una licencia MIT. Consulta el archivo `LICENSE` para más detalles.
